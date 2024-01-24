@@ -4,14 +4,20 @@ repo: bunce-uptime # The name of this repository
 sites:
   - name: Bunce Docs
     url: https://docs.bunce.so
+    
   - name: Bunce App
     url: https://app.bunce.so
+    
   - name: Bunce Base
     url: https://base.bunce.so
+    maxResponseTime: 1200
+    
   - name: Bunce Sandbox
     url: https://sandbox.bunce.so
+    
   - name: Bunce APIs
     url: http://api.bunce.so
+    
   - name: Bunce APIs (Sandbox)
     url: http://sandbox.api.bunce.so
 
