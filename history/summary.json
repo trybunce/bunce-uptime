@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-05": 5,
+      "2024-02-05": 971,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -108,9 +108,9 @@
     "url": "http://sandbox.api.bunce.so",
     "icon": "https://icons.duckduckgo.com/ip3/sandbox.api.bunce.so.ico",
     "slug": "bunce-ap-is-sandbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -119,6 +119,8 @@
     "timeWeek": 317,
     "timeMonth": 289,
     "timeYear": 289,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-05": 0
+    }
   }
 ]
