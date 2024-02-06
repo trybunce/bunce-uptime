@@ -16,10 +16,10 @@ sites:
     url: https://sandbox.bunce.so
     
   - name: Bunce APIs
-    url: http://api.bunce.so
+    url: https://api.bunce.so
     
   - name: Bunce APIs (Sandbox)
-    url: http://sandbox.api.bunce.so
+    url: https://sandbox.api.bunce.so
 
 assignees:
   - dammy001
