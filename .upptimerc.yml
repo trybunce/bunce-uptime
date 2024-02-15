@@ -20,6 +20,7 @@ sites:
     
   - name: Bunce APIs (Sandbox)
     url: https://sandbox.api.bunce.so
+    maxResponseTime: 600
 
   - name: Bunce Blog
     url: https://blog.bunce.so
