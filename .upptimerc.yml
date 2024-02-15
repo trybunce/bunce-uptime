@@ -21,6 +21,9 @@ sites:
   - name: Bunce APIs (Sandbox)
     url: https://sandbox.api.bunce.so
 
+  - name: Bunce Blog
+    url: https://blog.bunce.so
+
 assignees:
   - dammy001
   - paulayuk
