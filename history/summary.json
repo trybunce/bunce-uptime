@@ -4,9 +4,9 @@
     "url": "https://docs.bunce.so",
     "icon": "https://icons.duckduckgo.com/ip3/docs.bunce.so.ico",
     "slug": "bunce-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1295,
     "timeMonth": 801,
     "timeYear": 782,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-27": 0
+    }
   },
   {
     "name": "Bunce App",
@@ -88,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-27": 4,
+      "2024-02-27": 23,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
