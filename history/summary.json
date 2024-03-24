@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/developers.bunce.so.ico",
     "slug": "bunce-docs",
     "status": "up",
-    "uptime": "60.26%",
+    "uptime": "60.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "33.39%",
+    "uptimeWeek": "33.50%",
     "uptimeMonth": "22.25%",
-    "uptimeYear": "60.26%",
+    "uptimeYear": "60.27%",
     "time": 761,
     "timeDay": 468,
     "timeWeek": 567,
@@ -47,9 +47,9 @@
     "url": "https://app.bunce.so",
     "icon": "https://icons.duckduckgo.com/ip3/app.bunce.so.ico",
     "slug": "bunce-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -58,7 +58,9 @@
     "timeWeek": 849,
     "timeMonth": 999,
     "timeYear": 1035,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-24": 0
+    }
   },
   {
     "name": "Bunce Base",
@@ -113,7 +115,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-24": 5,
+      "2024-03-24": 16,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
