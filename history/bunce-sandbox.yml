@@ -1,7 +1,7 @@
 url: https://sandbox.bunce.so
-status: up
-code: 200
-responseTime: 3808
-lastUpdated: 2024-07-28T19:00:05.593Z
+status: down
+code: 500
+responseTime: 472
+lastUpdated: 2024-07-28T19:10:13.657Z
 startTime: 2024-01-24T11:42:50.191Z
 generator: Upptime <https://github.com/upptime/upptime>
