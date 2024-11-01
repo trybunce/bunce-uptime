@@ -22,6 +22,10 @@ sites:
     url: https://sandbox.api.bunce.so
     maxResponseTime: 600
 
+  - name: Bunce Ingest
+    url: https://events.bunce.so
+    maxResponseTime: 600
+
   - name: Bunce Blog
     url: https://blog.bunce.so
 
