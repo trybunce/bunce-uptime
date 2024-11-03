@@ -382,19 +382,19 @@
     "url": "https://events.bunce.so",
     "icon": "https://icons.duckduckgo.com/ip3/events.bunce.so.ico",
     "slug": "bunce-ingest",
-    "status": "down",
-    "uptime": "98.05%",
-    "uptimeDay": "96.01%",
-    "uptimeWeek": "98.05%",
-    "uptimeMonth": "98.05%",
-    "uptimeYear": "98.05%",
-    "time": 363,
-    "timeDay": 400,
-    "timeWeek": 363,
-    "timeMonth": 363,
-    "timeYear": 363,
+    "status": "up",
+    "uptime": "97.81%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
+    "time": 329,
+    "timeDay": 348,
+    "timeWeek": 329,
+    "timeMonth": 329,
+    "timeYear": 329,
     "dailyMinutesDown": {
-      "2024-11-03": 57
+      "2024-11-03": 64
     }
   },
   {
