@@ -97,12 +97,12 @@
     "url": "https://sandbox.bunce.so",
     "icon": "https://icons.duckduckgo.com/ip3/sandbox.bunce.so.ico",
     "slug": "bunce-sandbox",
-    "status": "up",
-    "uptime": "89.11%",
-    "uptimeDay": "90.83%",
+    "status": "down",
+    "uptime": "89.38%",
+    "uptimeDay": "90.81%",
     "uptimeWeek": "97.65%",
     "uptimeMonth": "99.43%",
-    "uptimeYear": "89.11%",
+    "uptimeYear": "89.38%",
     "time": 2516,
     "timeDay": 11757,
     "timeWeek": 7595,
@@ -185,8 +185,7 @@
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1324,
-      "2024-07-21": 1359,
-      "2024-07-20": 769
+      "2024-07-21": 758
     }
   },
   {
