@@ -10,17 +10,14 @@ sites:
     
   - name: Bunce Base
     url: https://base.bunce.so
-    maxResponseTime: 1200
-    
-  - name: Bunce Sandbox
-    url: https://sandbox.bunce.so
+    maxResponseTime: 500
     
   - name: Bunce APIs
     url: https://api.bunce.so
+    maxResponseTime: 400
     
-  - name: Bunce APIs (Sandbox)
-    url: https://sandbox.api.bunce.so
-    maxResponseTime: 600
+  - name: Bunce Website
+    url: https://bunce.so
 
   - name: Bunce Ingest
     url: https://events.bunce.so
