@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/developers.bunce.so.ico",
     "slug": "bunce-docs",
     "status": "up",
-    "uptime": "96.71%",
+    "uptime": "96.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 343,
-    "timeWeek": 206,
-    "timeMonth": 206,
-    "timeYear": 336,
+    "time": 327,
+    "timeDay": 138,
+    "timeWeek": 192,
+    "timeMonth": 192,
+    "timeYear": 323,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 150,
-    "timeWeek": 107,
-    "timeMonth": 107,
-    "timeYear": 239,
+    "timeDay": 201,
+    "timeWeek": 126,
+    "timeMonth": 126,
+    "timeYear": 231,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 572,
-    "timeDay": 415,
-    "timeWeek": 334,
-    "timeMonth": 334,
-    "timeYear": 424,
+    "time": 573,
+    "timeDay": 394,
+    "timeWeek": 346,
+    "timeMonth": 346,
+    "timeYear": 410,
     "dailyMinutesDown": {}
   },
   {
@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.bunce.so.ico",
     "slug": "bunce-ap-is",
     "status": "up",
-    "uptime": "85.55%",
+    "uptime": "85.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 471,
-    "timeDay": 128,
-    "timeWeek": 251,
-    "timeMonth": 251,
-    "timeYear": 501,
-    "dailyMinutesDown": {
-      "2025-01-15": 76
-    }
+    "time": 468,
+    "timeDay": 108,
+    "timeWeek": 223,
+    "timeMonth": 223,
+    "timeYear": 396,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bunce Website",
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 205,
-    "timeWeek": 177,
-    "timeMonth": 177,
-    "timeYear": 177,
+    "time": 200,
+    "timeDay": 292,
+    "timeWeek": 200,
+    "timeMonth": 200,
+    "timeYear": 200,
     "dailyMinutesDown": {}
   },
   {
@@ -98,18 +96,17 @@
     "slug": "bunce-ingest",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.06%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 297,
-    "timeWeek": 336,
-    "timeMonth": 336,
-    "timeYear": 360,
+    "timeDay": 324,
+    "timeWeek": 334,
+    "timeMonth": 334,
+    "timeYear": 376,
     "dailyMinutesDown": {
-      "2026-01-13": 14,
-      "2025-01-15": 10
+      "2026-01-13": 14
     }
   },
   {
@@ -123,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1154,
-    "timeDay": 1292,
-    "timeWeek": 1261,
-    "timeMonth": 1261,
-    "timeYear": 1302,
+    "time": 1134,
+    "timeDay": 1135,
+    "timeWeek": 1235,
+    "timeMonth": 1235,
+    "timeYear": 1305,
     "dailyMinutesDown": {}
   }
 ]
