@@ -1,7 +1,7 @@
 url: https://events.bunce.so
-status: up
-code: 200
-responseTime: 336
-lastUpdated: 2026-01-27T15:22:09.689Z
+status: down
+code: 502
+responseTime: 292
+lastUpdated: 2026-01-27T15:39:15.045Z
 startTime: 2024-11-01T16:36:42.229Z
 generator: Upptime <https://github.com/upptime/upptime>
