@@ -40,17 +40,17 @@
     "url": "https://base.bunce.so",
     "icon": "https://icons.duckduckgo.com/ip3/base.bunce.so.ico",
     "slug": "bunce-base",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.76%",
-    "uptimeDay": "62.63%",
-    "uptimeWeek": "77.48%",
-    "uptimeMonth": "93.94%",
+    "uptimeDay": "64.36%",
+    "uptimeWeek": "77.51%",
+    "uptimeMonth": "93.97%",
     "uptimeYear": "99.50%",
-    "time": 680,
-    "timeDay": 705,
+    "time": 682,
+    "timeDay": 714,
     "timeWeek": 692,
-    "timeMonth": 678,
-    "timeYear": 681,
+    "timeMonth": 679,
+    "timeYear": 682,
     "dailyMinutesDown": {
       "2026-03-07": 472,
       "2026-03-06": 416,
@@ -64,8 +64,7 @@
       "2026-02-25": 32,
       "2026-02-23": 19,
       "2026-02-22": 48,
-      "2026-02-21": 110,
-      "2026-02-20": 12
+      "2026-02-21": 110
     }
   },
   {
