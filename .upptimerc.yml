@@ -8,13 +8,13 @@ sites:
   - name: Bunce App
     url: https://app.bunce.so
     
-  - name: Bunce Base
-    url: https://base.bunce.so
-    maxResponseTime: 500
+  # - name: Bunce Base
+  #   url: https://base.bunce.so
+  #   maxResponseTime: 500
     
-  - name: Bunce APIs
-    url: https://api.bunce.so
-    maxResponseTime: 400
+  # - name: Bunce APIs
+  #   url: https://api.bunce.so
+  #   maxResponseTime: 400
     
   - name: Bunce Website
     url: https://bunce.so
