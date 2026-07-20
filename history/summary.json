@@ -42,9 +42,9 @@
     "slug": "bunce-base",
     "status": "degraded",
     "uptime": "0.00%",
-    "uptimeDay": "52.42%",
-    "uptimeWeek": "52.42%",
-    "uptimeMonth": "52.42%",
+    "uptimeDay": "28.31%",
+    "uptimeWeek": "28.31%",
+    "uptimeMonth": "28.31%",
     "uptimeYear": "0.00%",
     "time": 640,
     "timeDay": 817,
@@ -100,7 +100,7 @@
       "2026-05-25": 1440,
       "2026-06-06": 133,
       "2026-06-09": 87,
-      "2026-07-20": 0
+      "2026-07-20": 1
     }
   },
   {
