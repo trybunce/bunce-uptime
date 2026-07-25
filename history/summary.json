@@ -100,7 +100,7 @@
       "2026-05-25": 1440,
       "2026-06-06": 133,
       "2026-06-09": 87,
-      "2026-07-25": 31,
+      "2026-07-25": 833,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -200,17 +200,19 @@
     "url": "https://blog.bunce.so",
     "icon": "https://icons.duckduckgo.com/ip3/blog.bunce.so.ico",
     "slug": "bunce-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1215,
+    "time": 1216,
     "timeDay": 1305,
     "timeWeek": 1281,
     "timeMonth": 1327,
     "timeYear": 1303,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-25": 3
+    }
   }
 ]
