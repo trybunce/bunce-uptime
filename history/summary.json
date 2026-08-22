@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 390,
-    "timeWeek": 207,
-    "timeMonth": 246,
-    "timeYear": 214,
+    "time": 267,
+    "timeDay": 256,
+    "timeWeek": 203,
+    "timeMonth": 242,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 131,
-    "timeWeek": 143,
-    "timeMonth": 202,
-    "timeYear": 181,
+    "time": 237,
+    "timeDay": 220,
+    "timeWeek": 132,
+    "timeMonth": 205,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "5.96%",
     "uptimeYear": "0.00%",
     "time": 663,
-    "timeDay": 790,
-    "timeWeek": 610,
-    "timeMonth": 944,
+    "timeDay": 730,
+    "timeWeek": 597,
+    "timeMonth": 938,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2026-04-04": 70,
@@ -131,7 +131,7 @@
       "2026-08-11": 1076,
       "2026-08-20": 36,
       "2026-08-21": 904,
-      "2026-08-22": 1344
+      "2026-08-22": 1385
     }
   },
   {
@@ -139,16 +139,16 @@
     "url": "https://api.bunce.so",
     "icon": "https://icons.duckduckgo.com/ip3/api.bunce.so.ico",
     "slug": "bunce-ap-is",
-    "status": "degraded",
-    "uptime": "88.79%",
-    "uptimeDay": "29.22%",
-    "uptimeWeek": "46.23%",
-    "uptimeMonth": "87.63%",
-    "uptimeYear": "88.79%",
+    "status": "up",
+    "uptime": "88.71%",
+    "uptimeDay": "27.81%",
+    "uptimeWeek": "45.83%",
+    "uptimeMonth": "87.53%",
+    "uptimeYear": "88.71%",
     "time": 517,
-    "timeDay": 716,
+    "timeDay": 717,
     "timeWeek": 715,
-    "timeMonth": 682,
+    "timeMonth": 681,
     "timeYear": 521,
     "dailyMinutesDown": {
       "2026-08-17": 398,
@@ -156,7 +156,7 @@
       "2026-08-19": 1004,
       "2026-08-20": 1062,
       "2026-08-21": 1040,
-      "2026-08-22": 960
+      "2026-08-22": 1001
     }
   },
   {
@@ -170,11 +170,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 185,
-    "timeDay": 146,
-    "timeWeek": 148,
-    "timeMonth": 168,
-    "timeYear": 185,
+    "time": 184,
+    "timeDay": 106,
+    "timeWeek": 129,
+    "timeMonth": 165,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2026-03-26": 35
     }
@@ -191,9 +191,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 377,
-    "timeDay": 357,
-    "timeWeek": 345,
-    "timeMonth": 389,
+    "timeDay": 331,
+    "timeWeek": 330,
+    "timeMonth": 386,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2026-01-13": 14,
@@ -221,9 +221,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 1234,
-    "timeDay": 1510,
-    "timeWeek": 1296,
-    "timeMonth": 1403,
+    "timeDay": 1380,
+    "timeWeek": 1279,
+    "timeMonth": 1399,
     "timeYear": 1319,
     "dailyMinutesDown": {
       "2026-07-25": 31,
