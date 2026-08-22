@@ -13,7 +13,7 @@
     "time": 267,
     "timeDay": 122,
     "timeWeek": 203,
-    "timeMonth": 242,
+    "timeMonth": 244,
     "timeYear": 213,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 237,
     "timeDay": 309,
     "timeWeek": 132,
-    "timeMonth": 205,
+    "timeMonth": 200,
     "timeYear": 182,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 663,
     "timeDay": 669,
     "timeWeek": 597,
-    "timeMonth": 938,
+    "timeMonth": 944,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2026-04-04": 70,
@@ -131,7 +131,7 @@
       "2026-08-11": 1076,
       "2026-08-20": 36,
       "2026-08-21": 904,
-      "2026-08-22": 1388
+      "2026-08-22": 1434
     }
   },
   {
@@ -139,16 +139,16 @@
     "url": "https://api.bunce.so",
     "icon": "https://icons.duckduckgo.com/ip3/api.bunce.so.ico",
     "slug": "bunce-ap-is",
-    "status": "degraded",
-    "uptime": "88.79%",
-    "uptimeDay": "27.91%",
-    "uptimeWeek": "46.20%",
-    "uptimeMonth": "87.62%",
-    "uptimeYear": "88.79%",
+    "status": "up",
+    "uptime": "88.71%",
+    "uptimeDay": "27.32%",
+    "uptimeWeek": "45.75%",
+    "uptimeMonth": "87.52%",
+    "uptimeYear": "88.71%",
     "time": 518,
-    "timeDay": 710,
-    "timeWeek": 715,
-    "timeMonth": 681,
+    "timeDay": 714,
+    "timeWeek": 714,
+    "timeMonth": 682,
     "timeYear": 521,
     "dailyMinutesDown": {
       "2026-08-17": 360,
@@ -156,7 +156,7 @@
       "2026-08-19": 1004,
       "2026-08-20": 1062,
       "2026-08-21": 1040,
-      "2026-08-22": 1001
+      "2026-08-22": 1047
     }
   },
   {
@@ -173,7 +173,7 @@
     "time": 184,
     "timeDay": 66,
     "timeWeek": 129,
-    "timeMonth": 165,
+    "timeMonth": 166,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2026-03-26": 35
@@ -193,7 +193,7 @@
     "time": 377,
     "timeDay": 304,
     "timeWeek": 330,
-    "timeMonth": 386,
+    "timeMonth": 390,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2026-01-13": 14,
@@ -223,7 +223,7 @@
     "time": 1234,
     "timeDay": 1249,
     "timeWeek": 1279,
-    "timeMonth": 1399,
+    "timeMonth": 1408,
     "timeYear": 1319,
     "dailyMinutesDown": {
       "2026-07-25": 31,
