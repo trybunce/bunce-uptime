@@ -40,11 +40,11 @@
     "url": "https://base.bunce.so",
     "icon": "https://icons.duckduckgo.com/ip3/base.bunce.so.ico",
     "slug": "bunce-base",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "93.30%",
-    "uptimeWeek": "83.90%",
-    "uptimeMonth": "25.26%",
+    "uptimeDay": "92.61%",
+    "uptimeWeek": "84.14%",
+    "uptimeMonth": "25.32%",
     "uptimeYear": "0.00%",
     "time": 653,
     "timeDay": 610,
@@ -52,7 +52,7 @@
     "timeMonth": 660,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2026-05-02": 43,
+      "2026-05-02": 19,
       "2026-05-03": 217,
       "2026-05-04": 424,
       "2026-05-05": 130,
@@ -128,7 +128,7 @@
       "2026-08-29": 166,
       "2026-08-30": 214,
       "2026-08-31": 139,
-      "2026-09-01": 30
+      "2026-09-01": 40
     }
   },
   {
@@ -136,13 +136,13 @@
     "url": "https://api.bunce.so",
     "icon": "https://icons.duckduckgo.com/ip3/api.bunce.so.ico",
     "slug": "bunce-ap-is",
-    "status": "degraded",
-    "uptime": "90.48%",
+    "status": "down",
+    "uptime": "90.43%",
     "uptimeDay": "36.05%",
-    "uptimeWeek": "41.45%",
-    "uptimeMonth": "86.53%",
-    "uptimeYear": "90.48%",
-    "time": 575,
+    "uptimeWeek": "41.11%",
+    "uptimeMonth": "86.45%",
+    "uptimeYear": "90.43%",
+    "time": 574,
     "timeDay": 766,
     "timeWeek": 755,
     "timeMonth": 727,
@@ -154,7 +154,7 @@
       "2026-08-29": 1159,
       "2026-08-30": 932,
       "2026-08-31": 996,
-      "2026-09-01": 336
+      "2026-09-01": 371
     }
   },
   {
@@ -182,10 +182,10 @@
     "url": "https://events.bunce.so",
     "icon": "https://icons.duckduckgo.com/ip3/events.bunce.so.ico",
     "slug": "bunce-ingest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "96.47%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "96.46%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.62%",
     "time": 383,
@@ -210,7 +210,8 @@
       "2026-08-28": 260,
       "2026-08-29": 45,
       "2026-08-30": 18,
-      "2026-08-31": 6
+      "2026-08-31": 6,
+      "2026-09-01": 0
     }
   },
   {
