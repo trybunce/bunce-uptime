@@ -40,17 +40,17 @@
     "url": "https://base.bunce.so",
     "icon": "https://icons.duckduckgo.com/ip3/base.bunce.so.ico",
     "slug": "bunce-base",
-    "status": "degraded",
+    "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "95.35%",
+    "uptimeDay": "93.91%",
     "uptimeWeek": "82.25%",
     "uptimeMonth": "24.89%",
     "uptimeYear": "0.00%",
     "time": 653,
-    "timeDay": 634,
-    "timeWeek": 540,
-    "timeMonth": 664,
-    "timeYear": 653,
+    "timeDay": 616,
+    "timeWeek": 538,
+    "timeMonth": 661,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2026-05-02": 63,
       "2026-05-03": 217,
@@ -128,7 +128,7 @@
       "2026-08-29": 166,
       "2026-08-30": 214,
       "2026-08-31": 139,
-      "2026-09-01": 0
+      "2026-09-01": 21
     }
   },
   {
@@ -137,11 +137,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.bunce.so.ico",
     "slug": "bunce-ap-is",
     "status": "degraded",
-    "uptime": "90.25%",
-    "uptimeDay": "39.88%",
-    "uptimeWeek": "40.26%",
-    "uptimeMonth": "86.25%",
-    "uptimeYear": "90.25%",
+    "uptime": "90.22%",
+    "uptimeDay": "38.41%",
+    "uptimeWeek": "40.05%",
+    "uptimeMonth": "86.20%",
+    "uptimeYear": "90.22%",
     "time": 572,
     "timeDay": 784,
     "timeWeek": 758,
@@ -154,7 +154,7 @@
       "2026-08-29": 1159,
       "2026-08-30": 932,
       "2026-08-31": 996,
-      "2026-09-01": 210
+      "2026-09-01": 231
     }
   },
   {
