@@ -1,7 +1,7 @@
 url: https://api.bunce.so
-status: degraded
+status: up
 code: 200
-responseTime: 1170
-lastUpdated: 2026-09-02T19:43:24.806Z
+responseTime: 521
+lastUpdated: 2026-09-02T20:19:07.447Z
 startTime: 2026-07-20T08:53:20.874Z
 generator: Upptime <https://github.com/upptime/upptime>
