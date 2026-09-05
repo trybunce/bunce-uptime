@@ -40,20 +40,20 @@
     "url": "https://base.bunce.so",
     "icon": "https://icons.duckduckgo.com/ip3/base.bunce.so.ico",
     "slug": "bunce-base",
-    "status": "up",
+    "status": "degraded",
     "uptime": "0.00%",
-    "uptimeDay": "81.86%",
-    "uptimeWeek": "91.95%",
-    "uptimeMonth": "37.73%",
+    "uptimeDay": "81.80%",
+    "uptimeWeek": "91.96%",
+    "uptimeMonth": "37.78%",
     "uptimeYear": "0.00%",
-    "time": 639,
-    "timeDay": 457,
-    "timeWeek": 540,
+    "time": 640,
+    "timeDay": 474,
+    "timeWeek": 543,
     "timeMonth": 624,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2026-05-09": 179,
       "2026-05-10": 1393,
+      "2026-05-09": 157,
       "2026-05-11": 1243,
       "2026-05-12": 651,
       "2026-05-14": 76,
@@ -125,7 +125,7 @@
       "2026-09-01": 68,
       "2026-09-02": 16,
       "2026-09-04": 256,
-      "2026-09-05": 26
+      "2026-09-05": 27
     }
   },
   {
@@ -134,11 +134,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.bunce.so.ico",
     "slug": "bunce-ap-is",
     "status": "degraded",
-    "uptime": "93.11%",
+    "uptime": "93.08%",
     "uptimeDay": "24.41%",
-    "uptimeWeek": "53.70%",
-    "uptimeMonth": "89.35%",
-    "uptimeYear": "93.11%",
+    "uptimeWeek": "53.46%",
+    "uptimeMonth": "89.29%",
+    "uptimeYear": "93.08%",
     "time": 600,
     "timeDay": 752,
     "timeWeek": 740,
@@ -150,7 +150,7 @@
       "2026-09-02": 1053,
       "2026-09-03": 1107,
       "2026-09-04": 1043,
-      "2026-09-05": 498
+      "2026-09-05": 522
     }
   },
   {
@@ -178,17 +178,17 @@
     "url": "https://events.bunce.so",
     "icon": "https://icons.duckduckgo.com/ip3/events.bunce.so.ico",
     "slug": "bunce-ingest",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.34%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "99.18%",
     "uptimeYear": "99.62%",
-    "time": 383,
-    "timeDay": 395,
-    "timeWeek": 468,
-    "timeMonth": 438,
-    "timeYear": 384,
+    "time": 384,
+    "timeDay": 650,
+    "timeWeek": 489,
+    "timeMonth": 446,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2026-01-13": 14,
       "2026-01-15": 8,
@@ -207,7 +207,8 @@
       "2026-08-29": 45,
       "2026-08-30": 18,
       "2026-08-31": 6,
-      "2026-09-01": 5
+      "2026-09-01": 5,
+      "2026-09-05": 0
     }
   },
   {
