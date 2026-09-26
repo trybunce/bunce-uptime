@@ -73,15 +73,15 @@
     "url": "https://api.bunce.so",
     "icon": "https://icons.duckduckgo.com/ip3/api.bunce.so.ico",
     "slug": "bunce-ap-is",
-    "status": "degraded",
-    "uptime": "95.59%",
-    "uptimeDay": "26.38%",
-    "uptimeWeek": "57.21%",
-    "uptimeMonth": "90.15%",
-    "uptimeYear": "95.59%",
+    "status": "up",
+    "uptime": "95.50%",
+    "uptimeDay": "24.73%",
+    "uptimeWeek": "56.37%",
+    "uptimeMonth": "89.96%",
+    "uptimeYear": "95.50%",
     "time": 650,
-    "timeDay": 713,
-    "timeWeek": 705,
+    "timeDay": 711,
+    "timeWeek": 704,
     "timeMonth": 735,
     "timeYear": 663,
     "dailyMinutesDown": {
@@ -89,7 +89,7 @@
       "2026-09-23": 1045,
       "2026-09-24": 1018,
       "2026-09-25": 997,
-      "2026-09-26": 288
+      "2026-09-26": 374
     }
   },
   {
