@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/base.bunce.so.ico",
     "slug": "bunce-base",
     "status": "degraded",
-    "uptime": "96.70%",
+    "uptime": "96.66%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.48%",
-    "uptimeMonth": "91.92%",
-    "uptimeYear": "96.70%",
+    "uptimeWeek": "76.08%",
+    "uptimeMonth": "91.83%",
+    "uptimeYear": "96.66%",
     "time": 614,
     "timeDay": 763,
     "timeWeek": 505,
@@ -67,7 +67,7 @@
       "2026-09-29": 15,
       "2026-09-30": 74,
       "2026-10-01": 650,
-      "2026-10-02": 1194
+      "2026-10-02": 1234
     }
   },
   {
@@ -76,14 +76,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.bunce.so.ico",
     "slug": "bunce-ap-is",
     "status": "degraded",
-    "uptime": "95.02%",
-    "uptimeDay": "22.15%",
-    "uptimeWeek": "47.05%",
-    "uptimeMonth": "87.81%",
-    "uptimeYear": "95.02%",
+    "uptime": "94.99%",
+    "uptimeDay": "22.03%",
+    "uptimeWeek": "46.65%",
+    "uptimeMonth": "87.72%",
+    "uptimeYear": "94.99%",
     "time": 664,
-    "timeDay": 765,
-    "timeWeek": 748,
+    "timeDay": 771,
+    "timeWeek": 746,
     "timeMonth": 735,
     "timeYear": 672,
     "dailyMinutesDown": {
@@ -92,7 +92,7 @@
       "2026-09-29": 991,
       "2026-09-30": 1055,
       "2026-10-01": 1006,
-      "2026-10-02": 920
+      "2026-10-02": 961
     }
   },
   {
@@ -120,17 +120,17 @@
     "url": "https://events.bunce.so",
     "icon": "https://icons.duckduckgo.com/ip3/events.bunce.so.ico",
     "slug": "bunce-ingest",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.61%",
     "time": 386,
-    "timeDay": 463,
-    "timeWeek": 343,
-    "timeMonth": 415,
-    "timeYear": 387,
+    "timeDay": 560,
+    "timeWeek": 383,
+    "timeMonth": 421,
+    "timeYear": 388,
     "dailyMinutesDown": {
       "2026-01-13": 14,
       "2026-01-15": 8,
@@ -152,7 +152,8 @@
       "2026-09-01": 5,
       "2026-09-05": 7,
       "2026-09-13": 7,
-      "2026-09-15": 7
+      "2026-09-15": 7,
+      "2026-10-02": 1
     }
   },
   {
