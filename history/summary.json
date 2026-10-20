@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/base.bunce.so.ico",
     "slug": "bunce-base",
     "status": "degraded",
-    "uptime": "85.29%",
+    "uptime": "85.28%",
     "uptimeDay": "30.68%",
-    "uptimeWeek": "36.23%",
-    "uptimeMonth": "55.69%",
-    "uptimeYear": "85.29%",
+    "uptimeWeek": "36.08%",
+    "uptimeMonth": "55.66%",
+    "uptimeYear": "85.28%",
     "time": 608,
     "timeDay": 469,
     "timeWeek": 520,
@@ -81,7 +81,7 @@
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
-      "2026-10-20": 0
+      "2026-10-20": 15
     }
   },
   {
