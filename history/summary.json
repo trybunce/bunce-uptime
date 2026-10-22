@@ -43,7 +43,7 @@
     "status": "up",
     "uptime": "85.69%",
     "uptimeDay": "95.93%",
-    "uptimeWeek": "40.10%",
+    "uptimeWeek": "40.18%",
     "uptimeMonth": "56.37%",
     "uptimeYear": "85.69%",
     "time": 609,
@@ -90,15 +90,15 @@
     "url": "https://api.bunce.so",
     "icon": "https://icons.duckduckgo.com/ip3/api.bunce.so.ico",
     "slug": "bunce-ap-is",
-    "status": "down",
+    "status": "up",
     "uptime": "90.92%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "71.87%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "71.85%",
     "uptimeYear": "90.92%",
     "time": 667,
-    "timeDay": 357,
-    "timeWeek": 373,
+    "timeDay": 365,
+    "timeWeek": 374,
     "timeMonth": 742,
     "timeYear": 678,
     "dailyMinutesDown": {
@@ -113,7 +113,7 @@
       "2026-10-11": 1202,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
-      "2026-10-22": 0
+      "2026-10-22": 9
     }
   },
   {
@@ -142,44 +142,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/events.bunce.so.ico",
     "slug": "bunce-ingest",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.60%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 391,
     "timeDay": 311,
     "timeWeek": 395,
     "timeMonth": 453,
     "timeYear": 393,
-    "dailyMinutesDown": {
-      "2026-01-13": 14,
-      "2026-01-15": 8,
-      "2026-01-19": 18,
-      "2026-01-22": 14,
-      "2026-01-23": 34,
-      "2026-01-24": 212,
-      "2026-01-25": 253,
-      "2026-01-26": 483,
-      "2026-01-27": 560,
-      "2026-06-13": 37,
-      "2026-07-15": 29,
-      "2026-08-25": 12,
-      "2026-08-26": 14,
-      "2026-08-28": 260,
-      "2026-08-29": 45,
-      "2026-08-30": 18,
-      "2026-08-31": 6,
-      "2026-09-01": 5,
-      "2026-09-05": 7,
-      "2026-09-13": 7,
-      "2026-09-15": 7,
-      "2026-10-02": 11,
-      "2026-10-06": 9,
-      "2026-10-10": 12,
-      "2026-10-14": 21,
-      "2026-10-20": 22
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bunce Blog",
@@ -191,12 +164,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 1239,
     "timeDay": 1083,
     "timeWeek": 1143,
     "timeMonth": 1199,
     "timeYear": 1312,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-25": 31,
+      "2026-07-27": 32
+    }
   }
 ]
